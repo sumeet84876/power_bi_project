@@ -43,6 +43,5 @@ Files Included
 
 To analyze regional sales performance and identify high-performing categories for business insights.
 
-<img width="1227" height="723" alt="Screenshot 2026-02-15 130728" src="https://github.com/user-attachments/assets/1a40ea83-bd5c-4e98-b596-002545255748" />
 
 
