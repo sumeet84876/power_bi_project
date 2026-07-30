@@ -1,4 +1,4 @@
-Region Wise Sales Performance Dashboard
+<img width="1227" height="723" alt="Screenshot 2026-02-15 130728" src="https://github.com/user-attachments/assets/963da143-74f0-4826-9326-ba67b9cd84db" />Region Wise Sales Performance Dashboard
 
  Project Overview
 
@@ -42,3 +42,7 @@ Files Included
  Project Objective
 
 To analyze regional sales performance and identify high-performing categories for business insights.
+
+<img width="1227" height="723" alt="Screenshot 2026-02-15 130728" src="https://github.com/user-attachments/assets/1a40ea83-bd5c-4e98-b596-002545255748" />
+
+
