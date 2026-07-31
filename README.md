@@ -25,12 +25,6 @@ Key Insights
 
 ---
 
-Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
 Files Included
 
 - Power BI Dashboard (.pbix)
