@@ -1,41 +1,66 @@
-<img width="1227" height="723" alt="Screenshot 2026-02-15 130728" src="https://github.com/user-attachments/assets/963da143-74f0-4826-9326-ba67b9cd84db" />Region Wise Sales Performance Dashboard
+# Regional Sales Performance Dashboard
 
- Project Overview
+An interactive Power BI dashboard for analyzing regional sales performance, profitability, product categories, quantity, and discount patterns.
 
-This project presents a Region Wise Sales Performance Dashboard built using Power BI.
-The dashboard analyzes sales, profit, quantity, and discount across different regions and product categories.
+## Project Objective
 
----
+The objective of this project is to transform raw sales data into an interactive business dashboard that helps identify high-performing regions, product categories, profitability trends, and the effect of discounts on business performance.
 
-Tools & Technologies Used
+## Dashboard Preview
+
+![Regional Sales Performance Dashboard](https://github.com/user-attachments/assets/963da143-74f0-4826-9326-ba67b9cd84db)
+
+## Key Metrics
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Discount Performance
+- Regional Performance
+- Category Performance
+
+## Key Insights
+
+- The West region generated the highest sales.
+- The Technology category contributed the highest revenue.
+- Profit showed an increasing trend over the analyzed period.
+- Discount levels had an impact on overall profit margins.
+
+## Dashboard Features
+
+- Region-wise sales analysis
+- Category and sub-category analysis
+- Sales and profit trend analysis
+- Quantity and discount analysis
+- Interactive Power BI visuals and filtering
+
+## Tools & Technologies
 
 - Power BI
-- Excel / CSV Dataset
+- Power Query
+- DAX
+- Excel / CSV
 - Data Visualization
-- DAX (Basic Measures)
 
----
+## Project Workflow
 
-Key Insights
+1. Imported the sales dataset.
+2. Cleaned and transformed data using Power Query.
+3. Created relationships and calculated measures.
+4. Built interactive visuals and KPIs in Power BI.
+5. Analyzed regional and category-level performance.
+6. Summarized key business insights.
 
-- West region generated the highest sales.
-- Technology category contributed maximum revenue.
-- Profit trends increased over the years.
-- Discounts impacted overall profit margins.
+## Files Included
 
----
+- Power BI Dashboard (`.pbix`)
+- Dataset (`.csv`)
+- Dashboard Preview (`.png`)
 
-Files Included
+## Outcome
 
-- Power BI Dashboard (.pbix)
-- Dataset (.csv)
-- Dashboard Screenshot (.png)
+The dashboard provides a concise view of sales and profitability performance and demonstrates practical skills in data cleaning, Power BI, Power Query, DAX, and business-oriented data visualization.
 
----
+## Author
 
- Project Objective
-
-To analyze regional sales performance and identify high-performing categories for business insights.
-
-
-
+Sumeet Rawat
